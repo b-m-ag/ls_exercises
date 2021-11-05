@@ -1,0 +1,1 @@
+breakfast, because even though return doesn't print anything, puts prints the return value

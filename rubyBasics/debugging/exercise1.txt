@@ -1,0 +1,2 @@
+For the first invoking of the method, it expects one argument, an array. We give 6 which ruby sees as too many for the method
+For the second invoking, again, it expects an array and we give an integer. When we call the method each on the integer that we used as an argument, there is an error because there is no each method for the Integer class

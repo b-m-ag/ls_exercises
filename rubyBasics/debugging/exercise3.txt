@@ -1,0 +1,1 @@
+It doesn't output that because we only implicitly returned n * 5 in the method. We need to either include the string "The result is" inside the method or we can just use puts inside the method

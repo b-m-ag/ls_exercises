@@ -1,0 +1,1 @@
+evening, in ruby, the last statement is implicitly returned. In this case, 'evening'
