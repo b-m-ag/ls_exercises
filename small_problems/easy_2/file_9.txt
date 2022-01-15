@@ -1,0 +1,5 @@
+This prints out:
+BOB
+BOB
+
+This is because when we use upcase! we aren't simply pointing to a different location in memory, we are mutating the same piece of data. Because name and save_name point to that same piece of data, they both mutate
